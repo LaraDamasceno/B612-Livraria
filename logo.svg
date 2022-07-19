@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="161" viewBox="0 0 610 161">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 125px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #033f82;
+        font-family: "Perpetua Titling MT";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 58.333px;
+      }
+    </style>
+  </defs>
+  <text id="b612_" data-name="b612 " class="cls-1" transform="matrix(0.847, 0, 0, 0.847, 164.537, 92.088)">b612</text>
+  <text id="Livraria_papelaria_e_presentes" data-name="Livraria, papelaria e presentes" class="cls-2" transform="translate(9.289 147.137) scale(0.544)">Livraria, papelaria e presentes</text>
+</svg>
