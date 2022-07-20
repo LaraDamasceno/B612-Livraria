@@ -127,6 +127,24 @@ li a:hover {
   margin: 3rem;
 }
 
+/* =============== GENDER ================================== */
+
+#genders{
+ align-items: center;
+}
+
+.SquareItem{
+  background-color:var(--fourth-color);
+  padding:2rem;
+  margin:2rem;
+  border-radius:1rem;
+  border: 1px solid white;
+}
+
+.SquareItem h4{
+  color:var(--primary-color);
+}
+
 /* =============== STATS ================================== */
 
 #category {
